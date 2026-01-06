@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ball1
+  - shine
+  - TealPill
+  - TEmpty
+  - GEmpty
+  - PEmpty
+  - PurplePill
+  - GreenPill
+  - Window
+  - Radio
+  - PillThingy
+  - ExitPillThingyMini
+  - ExitRadioMini
+  - ExitWindowMini
+  - Placeholder1
+  - Placeholder2
+  - Placeholder3
+  - Placeholder4
+  - Placeholder5
+  - Placeholder6
+  - Placeholder7
+  - Placeholder8
+  - Placeholder9
+  - shine1
+  - shine2
+  - shine3
+  - monday
+  - tuesday
+  - wednesday
+  - thrusday
+  - friday
+  - saturday
+  - sunday
+  - nob
+  - barF
+  - GreenPillMon1
+  - GreenPillMon2
+  - TealPillMon1
+  - TealPillMon2
+  - TealPillMon3
+  - PurplePillMon1
+  - GreenPillTue1
+  - GreenPillTue2
+  - TealPillTue3
+  - PurplePillTue1
+  - GreenPillWed1
+  - GreenPillWed2
+  - TealPillWed1
+  - TealPillWed2
+  - TealPillWed3
+  - PurplePillWed1
+  - GreenPillThur1
+  - GreenPillThur2
+  - TealPillThur1
+  - TealPillThur2
+  - TealPillThur3
+  - PurplePillThur1
+  - GreenPillFri1
+  - GreenPillFri2
+  - TealPillFri1
+  - TealPillFri2
+  - TealPillFri3
+  - PurplePillFri1
+  - GreenPillSat1
+  - GreenPillSat2
+  - TealPillSat1
+  - TealPillSat2
+  - TealPillSat3
+  - PurplePillSat1
+  - GreenPillSun1
+  - GreenPillSun2
+  - TealPillSun1
+  - TealPillSun2
+  - TealPillSun3
+  - PurplePillSun1
+  - TealPillTue1
+  - TealPillTue2
+  - thursday
+  - NextButton
+  - restartButton
+  - goalBar1
+  - goalBar2
+  - flower1
+  - flower2
+  - flower3
+  - hat
+  - shovel
+  - bear
+  - a1
+  - b2
+  - c3
+  - atb
+  - bh
+  - cs
+  - WindowWarning
+  - startObjects
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
